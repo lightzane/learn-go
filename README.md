@@ -9,6 +9,7 @@ Learning GO language (https://go.dev/)
 - [Create GO Module](#create-go-module)
 - [Hello World](#hello-go)
 - [Notes on Packages and Imports](#notes-on-package-and-imports)
+- [GO language Fundamentals](#next)
 
 ## Prerequisites
 
@@ -106,3 +107,9 @@ func main() {
     mypackagename.PublicFunction()
 }
 ```
+
+# Next
+
+Learn the fundamentals in GO language
+
+- Go to: https://github.com/lightzane/learn-go/tree/booking-app#readme
